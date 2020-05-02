@@ -1,0 +1,31 @@
+
+.search-area {
+    display: flex;
+    justify-content: flex-end;
+}
+.items-added{
+    border-radius: 4px;
+    display: inline-block;
+    position: fixed;
+    background: orange;
+    margin-left: 23px;
+    margin-top: -4px;
+    border: hidden;
+}
+
+.search-label{
+    padding: 0px;
+    margin-bottom: 19px;
+}
+
+.brand-label {
+    font-style: italic;
+    font-size: 2.5rem;
+    background-color: lightpink;
+    width: -webkit-fill-available;
+}
+
+#search-button{
+    margin-bottom: 19px;
+}
+
