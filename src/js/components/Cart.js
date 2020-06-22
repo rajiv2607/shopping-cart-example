@@ -9,7 +9,7 @@ class Cart extends React.Component {
               let totalAmount =  this.props.total
               let itemList = addedItemss.map(item=>{
                 return(
-                    <>
+                    
                     <div className='container_cart'>
                     <div className='cart_container'>
                        
@@ -17,20 +17,18 @@ class Cart extends React.Component {
                             <label className='item-quantity'>Quantity: {item.quantity}</label>
                      </div>
                      </div>
-                     </>
+                    
     
                 )
             })
     
 
         return (
-            <>
                 <div>
                 <label className='cart-header'>You have Added </label>
                     {itemList}
                 <label className='cart-footer'>Total: {totalAmount} </label>  
                 </div>
-            </>
         )
     }
 }

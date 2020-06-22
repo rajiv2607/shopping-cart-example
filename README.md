@@ -5,12 +5,13 @@ Featured :
 Add to Cart
 Sorting ( Height to low , Low to Heigh and Sort accoring to Discount)
 Searching
+Wepack support
+
 
 Added need to added :
 Filer according to price range,
 Cart need to be looking (Css)
 Responsiveness
-Wepack.
 
 To install Dependency use npm install 
 
