@@ -8,7 +8,7 @@ Searching
 Wepack support
 
 
-Added need to added :
+need to added :
 Filer according to price range,
 Cart need to be looking (Css)
 Responsiveness
